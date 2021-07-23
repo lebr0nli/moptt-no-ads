@@ -19,7 +19,7 @@ This is my ios reverse engineering exercise :)
 Edit the `Makefiles` to suit your theos installations and then
 
 ```
-make && make package && makepackage install
+make && make package && make package install
 ```
 
 or donwload `.deb` from release page.
