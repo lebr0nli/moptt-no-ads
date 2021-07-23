@@ -1,0 +1,8 @@
+Package: com.alanli.mopttnoads
+Name: Mo PTT no ads
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Version: 2021.7
+Architecture: iphoneos-arm
+Description: Remove ads of Mo ptt
+Maintainer: Alan Li
+Author: Alan Li
